@@ -1,0 +1,26 @@
+_repo: Mimsy-s-Joke_63749
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grimes, Millard
+    gutenberg_agent_id: '52584'
+    url: http://www.gutenberg.org/2009/agents/52584
+description: ''
+gutenberg_issued: '2020-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63749'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Martians -- Fiction'
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Dogs -- Fiction'
+- !lcsh 'Short stories'
+- GITenberg
+title: Mimsy's Joke
+url: http://www.gutenberg.org/ebooks/63749
